@@ -1,7 +1,11 @@
 package main
-
+// The above tells Go to that this package is the main executable and not a "shared library"
+//The line below importst the fmt which is short for  "Format"
 import "fmt"
 
+//The main function is the entry point into the program. This is where all the things are executed.
+//All these lines are similar. They call Println, a method of fmt. It will print the string in the brackets to stout"
+//Note: The double quotes in the last line around the word "said" had to be escaped.
 func main() {
     fmt.Println("Hello World")
     fmt.Println("Hello Again")
