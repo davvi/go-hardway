@@ -1,6 +1,6 @@
 package main
-// The above tells Go to that this package is the main executable and not a "shared library"
-//The line below importst the fmt which is short for  "Format"
+//The above tells Go to that this package is the main executable and not a "shared library"
+//The line below will import the fmt package, which is short for "Format"
 import "fmt"
 
 //The main function is the entry point into the program. This is where all the things are executed.
