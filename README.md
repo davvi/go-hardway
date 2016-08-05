@@ -20,6 +20,7 @@ Println will perform the usual math and print it out after your string.
 Works similar to pythong here ..just be sure to leave your variables outside of the quotes in the Println statements. Other ways to declare a variable:
 
 cars := 100
+
 stuff := "cookies"
 
 But it's often safer to declare a type.
