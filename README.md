@@ -2,7 +2,7 @@
 A porting of the famouse python the hardway. The best I can. 
 Thank you so very very much Zed Shaw.
 
-This is evolving.. I'm not a great software engineer and I can write some OK python when I need to .. This Go code may not be idiomatic.. yet.. I aim to get there though. This will hopefully help my learn and help some others on their way as well. 
+This is evolving.. I'm not a great software engineer (OK I'm a systems/devops engineer learning to code) and I can write some OK python when I need to .. This Go code may not be idiomatic.. yet.. I aim to get there though. This will hopefully help my learn and help some others on their way as well. 
 
 Thank you.
 
