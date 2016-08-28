@@ -8,7 +8,7 @@ func main() {
     fmt.Println("Mary had a little lamb")
     fmt.Println("It's fleece was white as snow")
     fmt.Println("And everywhere that Mary went.")
-    // You can do operations on strings like you can in python.. so you can do the following.
+    // You can't do operations on strings like you can in python.. so you can do the following.
     y := strings.Repeat("*", 10)
     
     fmt.Println(y)
