@@ -1,5 +1,5 @@
 # Go the Hardway 
-A porting of the famouse python the hardway. The best I can. 
+A porting of the famous python the hardway. The best I can. 
 Thank you so very very much Zed Shaw.
 
 This is evolving.. I'm not a great software engineer (OK I'm a systems/devops engineer learning to code) and I can write some OK python when I need to .. This Go code may not be idiomatic.. yet.. I aim to get there though. This will hopefully help my learn and help some others on their way as well. 
@@ -17,7 +17,7 @@ Comments are a double forward slash just like C.
 Println will perform the usual math and print it out after your string.
 
 ## Exersize 04
-Works similar to pythong here ..just be sure to leave your variables outside of the quotes in the Println statements. Other ways to declare a variable:
+Works similar to python here ..just be sure to leave your variables outside of the quotes in the Println statements. Other ways to declare a variable:
 
 cars := 100
 
